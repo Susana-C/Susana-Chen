@@ -1,0 +1,6 @@
+# models
+*.bin
+*.pkl
+*.safetensors
+bert_model_trained/
+**/model/

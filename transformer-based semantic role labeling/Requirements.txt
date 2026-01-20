@@ -1,0 +1,9 @@
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+pip install datasets
+pip install evaluate
+pip install transformers
+pip install accelerate
