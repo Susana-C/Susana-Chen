@@ -1,4 +1,4 @@
-# NLP Portfolio — Language & AI (MSc)
+# NLP Portfolio — Language & AI (Text Mining)
 
 This repository contains a collection of **Natural Language Processing (NLP)** projects completed during my Master's degree in **Language and AI**.  
 The projects span classic machine learning approaches and modern transformer-based models, with a focus on **information extraction, semantic analysis, and clinical NLP**.
