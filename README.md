@@ -1,6 +1,6 @@
 # NLP Portfolio — Language & AI (Text Mining)
 
-This repository contains a collection of **Natural Language Processing (NLP)** projects completed during my Master's degree in **Language and AI**.  
+This repository contains a collection of **Natural Language Processing (NLP)** projects.  
 The projects span classic machine learning approaches and modern transformer-based models, with a focus on **information extraction, semantic analysis, and clinical NLP**.
 
 Each folder represents a self-contained project with code, experiments, and documentation.
@@ -12,7 +12,7 @@ Each folder represents a self-contained project with code, experiments, and docu
 ### 'clinical_classification_medroberta'
 **Clinical text classification with MedRoBERTa**
 
-A Master's thesis project conducted in collaboration with a hospital, focusing on **multi-label classification of Dutch clinical notes** using transformer-based models.  
+A Clinical NLP project conducted in collaboration with a hospital, focusing on **multi-label classification of Dutch clinical notes** using transformer-based models.  
 The project explores **LLM-assisted weak supervision** to extend the label space (ICF categories) with minimal manual annotation, and evaluates sentence and note-level performance.
 
 **Key topics:**  
